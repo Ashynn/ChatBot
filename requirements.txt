@@ -101,7 +101,7 @@ omegaconf==2.3.0
 onnx==1.17.0
 onnxruntime==1.21.1
 openai==1.77.0
-opencv-python==4.11.0.86
+opencv-python-headless==4.8.0.76
 openpyxl==3.1.5
 orjson==3.10.18
 packaging==24.2
